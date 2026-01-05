@@ -1,7 +1,3 @@
-# Game_Recommender_System
-a game recommender system based on steam, involing sentiment analysis on player reviews, content-based and collaborative filtering model, finally come up with a hybrid recommendation system.
-
-
 # Hybrid Game Recommendation System
 
 An improved hybrid recommendation system for Steam games, combining content-based filtering, collaborative filtering (SVD), and game rating/popularity scoring.
